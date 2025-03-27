@@ -11,7 +11,7 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background-color: #00c3ff;
+    background-color: #527681;
 }
 
 header {
@@ -23,6 +23,9 @@ section {
     padding-bottom: 5rem;
 }
 
+.nav-img{
+    width: 250px;
+}
 
 .nav-link {
     color: #00c3ff;
@@ -47,8 +50,9 @@ section {
     position: absolute;
     right: 0;
     top: 18rem;
-    width: 45rem;
+    width: 30rem;
     height: auto;
+    border-radius: 50%;
 }
 
 

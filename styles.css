@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #1c0f92;
+    --laranja-claro: #1d2252;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #521919;
     --alto-contraste-link: #dba615;
@@ -11,11 +11,11 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background-color: #527681;
+    background-color: #1f1f1f;
 }
 
 header {
-    background-color: #0aaa12;
+    background-color: #681813;
 }
 
 
@@ -28,7 +28,7 @@ section {
 }
 
 .nav-link {
-    color: #00c3ff;
+    color: #615429;
     font-weight: 600;
 }
 

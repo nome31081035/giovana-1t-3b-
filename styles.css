@@ -11,11 +11,11 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background-color: #1f1f1f;
+    background-color: #ffffff;
 }
 
 header {
-    background-color: #681813;
+    background-color: #d31507;
 }
 
 
@@ -24,12 +24,14 @@ section {
 }
 
 .nav-img{
-    width: 250px;
+    width: 450px;
 }
 
 .nav-link {
-    color: #615429;
+    color: #f8fffd;
     font-weight: 600;
+    font-size: 150%;
+    
 }
 
 .inicio-fundo {
@@ -204,3 +206,6 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+
+/*d31507 vermeelho marvel

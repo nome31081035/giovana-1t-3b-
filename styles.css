@@ -11,11 +11,12 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background-color: #ffffff;
+    background-color: #e2e2e2;
 }
 
 header {
     background-color: #d31507;
+    background-size: 20%;
 }
 
 

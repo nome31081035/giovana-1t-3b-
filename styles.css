@@ -4,8 +4,8 @@
 :root {
     --laranja-claro: #701913;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #521919;
-    --alto-contraste-link: #dba615;
+    --alto-contraste-texto: #ffffff;
+    --alto-contraste-link: #ffffff;
 }
 
 body {
@@ -88,8 +88,6 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
     background-color: #5f5b5b;
     font-size: 150%;
@@ -106,6 +104,9 @@ section {
     /* Garante que o conteúdo fica acima das imagens do background */
 }
 
+#tropicalia .p-2{
+    color: #ffffff;
+}
 
 h2 {
     font-family: 'Lemon', serif;
@@ -120,7 +121,6 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
@@ -144,13 +144,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #00a2ff;
+    background-color: #680d0d;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #4b0000;
+    background-color: #a8a8a8;
 }
 .menu-acessibilidade{
     position: fixed;
